@@ -1,0 +1,11 @@
+tests (6 tests) Success
+  GameLogic.Tests (6 tests) Success
+    GameLogic.Tests (6 tests) Success
+      GameTests (3 tests) Success
+        TestInitializeBoard Success
+        TestMakeInvalidMove Success
+        TestMakeValidMove Success
+      MenuManagerTests (3 tests) Success
+        TestDefaultState Success
+        TestNavigateToStartGame Success
+        TestSetPlayerName Success
