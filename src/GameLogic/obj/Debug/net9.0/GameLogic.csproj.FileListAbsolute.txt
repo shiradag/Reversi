@@ -1,0 +1,11 @@
+/home/work/Projects/Unity/Reversi/src/GameLogic/bin/Debug/net9.0/GameLogic.deps.json
+/home/work/Projects/Unity/Reversi/src/GameLogic/bin/Debug/net9.0/GameLogic.dll
+/home/work/Projects/Unity/Reversi/src/GameLogic/bin/Debug/net9.0/GameLogic.pdb
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/GameLogic.AssemblyInfoInputs.cache
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/GameLogic.AssemblyInfo.cs
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/GameLogic.csproj.CoreCompileInputs.cache
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/GameLogic.dll
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/refint/GameLogic.dll
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/GameLogic.pdb
+/home/work/Projects/Unity/Reversi/src/GameLogic/obj/Debug/net9.0/ref/GameLogic.dll

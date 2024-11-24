@@ -1,0 +1,15 @@
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/bin/Debug/net9.0/UnityIntegration.deps.json
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/bin/Debug/net9.0/UnityIntegration.dll
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/bin/Debug/net9.0/UnityIntegration.pdb
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/bin/Debug/net9.0/GameLogic.dll
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/bin/Debug/net9.0/GameLogic.pdb
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.csproj.AssemblyReference.cache
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.AssemblyInfoInputs.cache
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.AssemblyInfo.cs
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.csproj.CoreCompileInputs.cache
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityInt.40D4E15E.Up2Date
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.dll
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/refint/UnityIntegration.dll
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/UnityIntegration.pdb
+/home/work/Projects/Unity/Reversi/src/UnityIntegration/obj/Debug/net9.0/ref/UnityIntegration.dll

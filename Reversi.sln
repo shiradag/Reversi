@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{11877275-0621-4FFD-8C8A-B1A6905BCC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "src\GameLogic\GameLogic.csproj", "{D3342BBD-7DFC-48F5-8372-FE0879742A7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C02D5886-5015-4320-AA50-7559ADAECA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic.Tests", "tests\GameLogic.Tests\GameLogic.Tests.csproj", "{81C0A3A0-CCB0-4790-8558-9B4F161D82CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{20DE3254-69B1-455A-8B2F-A5AF3BACBA89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockUI", "tools\MockUI\MockUI.csproj", "{24855F1E-7509-4948-9D77-DE7BE0BBFD41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityIntegration", "src\UnityIntegration\UnityIntegration.csproj", "{2ED6B37E-6272-4C95-8833-EA2250DA267E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3342BBD-7DFC-48F5-8372-FE0879742A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3342BBD-7DFC-48F5-8372-FE0879742A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3342BBD-7DFC-48F5-8372-FE0879742A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3342BBD-7DFC-48F5-8372-FE0879742A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C0A3A0-CCB0-4790-8558-9B4F161D82CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C0A3A0-CCB0-4790-8558-9B4F161D82CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C0A3A0-CCB0-4790-8558-9B4F161D82CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C0A3A0-CCB0-4790-8558-9B4F161D82CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24855F1E-7509-4948-9D77-DE7BE0BBFD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24855F1E-7509-4948-9D77-DE7BE0BBFD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24855F1E-7509-4948-9D77-DE7BE0BBFD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24855F1E-7509-4948-9D77-DE7BE0BBFD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED6B37E-6272-4C95-8833-EA2250DA267E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED6B37E-6272-4C95-8833-EA2250DA267E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED6B37E-6272-4C95-8833-EA2250DA267E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED6B37E-6272-4C95-8833-EA2250DA267E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D3342BBD-7DFC-48F5-8372-FE0879742A7E} = {11877275-0621-4FFD-8C8A-B1A6905BCC8C}
+		{81C0A3A0-CCB0-4790-8558-9B4F161D82CB} = {C02D5886-5015-4320-AA50-7559ADAECA1F}
+		{24855F1E-7509-4948-9D77-DE7BE0BBFD41} = {20DE3254-69B1-455A-8B2F-A5AF3BACBA89}
+		{2ED6B37E-6272-4C95-8833-EA2250DA267E} = {11877275-0621-4FFD-8C8A-B1A6905BCC8C}
+	EndGlobalSection
+EndGlobal
